@@ -1,0 +1,16 @@
+{
+    "name": "js--test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "number": "nodemon ./js/01-number.js",
+        "dev": "nodemon"
+    },
+    "keywords": [],
+    "author": "Rasa",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
